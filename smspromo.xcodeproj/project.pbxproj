@@ -13,6 +13,7 @@
 		0471890B1FFDD86E00E2A892 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0471890A1FFDD86E00E2A892 /* Assets.xcassets */; };
 		0471890E1FFDD86E00E2A892 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0471890C1FFDD86E00E2A892 /* LaunchScreen.storyboard */; };
 		047189161FFDDCC300E2A892 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 047189151FFDDCC300E2A892 /* GoogleService-Info.plist */; };
+		04B54F652001C6AC000D62BE /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 04B54F642001C6AC000D62BE /* readme.md */; };
 		F21BD8C629130FE5604BAA17 /* Pods_smspromo.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 921909570FA39FEF8C76DAF5 /* Pods_smspromo.framework */; };
 /* End PBXBuildFile section */
 
@@ -25,6 +26,7 @@
 		0471890D1FFDD86E00E2A892 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0471890F1FFDD86E00E2A892 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		047189151FFDDCC300E2A892 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		04B54F642001C6AC000D62BE /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 		1AFDFA14E1B46E6C5AFD9857 /* Pods-smspromo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-smspromo.release.xcconfig"; path = "Pods/Target Support Files/Pods-smspromo/Pods-smspromo.release.xcconfig"; sourceTree = "<group>"; };
 		2BCA80E4DFA034B12F3852E2 /* Pods-smspromo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-smspromo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-smspromo/Pods-smspromo.debug.xcconfig"; sourceTree = "<group>"; };
 		921909570FA39FEF8C76DAF5 /* Pods_smspromo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_smspromo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -53,6 +55,7 @@
 		047188F71FFDD86E00E2A892 = {
 			isa = PBXGroup;
 			children = (
+				04B54F642001C6AC000D62BE /* readme.md */,
 				047189151FFDDCC300E2A892 /* GoogleService-Info.plist */,
 				047189021FFDD86E00E2A892 /* smspromo */,
 				047189011FFDD86E00E2A892 /* Products */,
@@ -156,6 +159,7 @@
 				0471890E1FFDD86E00E2A892 /* LaunchScreen.storyboard in Resources */,
 				047189161FFDDCC300E2A892 /* GoogleService-Info.plist in Resources */,
 				0471890B1FFDD86E00E2A892 /* Assets.xcassets in Resources */,
+				04B54F652001C6AC000D62BE /* readme.md in Resources */,
 				047189091FFDD86E00E2A892 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
